@@ -1,0 +1,132 @@
+Report created: 
+	11/9/2026	2:05:54 PM
+
+Project name: say-yes-to-heaven.aep
+
+Source files collected to: 
+	D:\after-effects-repository\say-yes-to-heaven
+
+Source files collected: For all comps
+
+Collected comps:  
+	MAIN
+	_The Internal Conversation_ directed by Harvey Pearson.mp4 Comp 1
+	_The Internal Conversation_ directed by Harvey Pearson.mp4 Comp 2
+	Armani - My Way.mp4 Comp 1
+	_The Internal Conversation_ directed by Harvey Pearson.mp4 Comp 3
+	PinDown.io_@hmwalton04_1776353517.gif Comp 1
+	White Solid 2 Comp 1
+	EYES
+	EYES-MIX
+	White Solid 2 Comp 1_Sim_01
+	White Solid 2 Comp 1_Sim_02
+	White Solid 2 Comp 1_Sim_03
+	White Solid 2 Comp 1_Sim_04
+	REEBOK _ Come Grow With Us_.mp4 Comp 1
+	White Solid 2 Comp 1_Sim_05
+	White Solid 2 Comp 1_Sim_06
+	Carly Rae Jepsen - Western Wind (Official Video).mp4 Comp 1
+	Comp 23
+	Comp 23_Sim_01
+	MIX-LOOP
+	Thumbnail
+	
+Number of collected files:  19
+
+Size of collected files:  52,4 MB
+
+Collected source files: 
+	C:\Users\arkaa\Downloads\Minimal 4×3 Grid on Black.png
+	C:\Users\arkaa\Downloads\Tiny Woman Beneath a Lavender Twilight.png
+	D:\#EDITING\#ARKAGANGWELIT\SFX\audio_mangler_whoosh_fee_27_087\audio_mangler_whoosh_fee_27_087.mp3
+	D:\#EDITING\#ARKAGANGWELIT\SFX\SFX Random\Camera.wav
+	D:\#EDITING\#ARKAGANGWELIT\SFX\SJC SFX Pack Vol 1 (Giveaway)\SJC SFX Pack Vol 1 (Giveaway)\Camera\DSLR\SJC_DSLR_Flash Close_01.wav
+	D:\#EDITING\#ARKAGANGWELIT\SFX\SJC SFX Pack Vol 1 (Giveaway)\SJC SFX Pack Vol 1 (Giveaway)\UI & Motion\Whoosh\SJC_WHOOSH_Light Air_02.wav
+	D:\#EDITING\7&7-20260514T114649Z-3-001\7&7\sfx\cyberwhoosh.mp3
+	D:\Downloads D\Fayn IRL editing pack\Fayn IRL editing pack\CLIPS\CLIPS\_The Internal Conversation_ directed by Harvey Pearson.mp4
+	D:\Downloads D\Fayn IRL editing pack\Fayn IRL editing pack\CLIPS\CLIPS\Armani - My Way.mp4
+	D:\Downloads D\Fayn IRL editing pack\Fayn IRL editing pack\CLIPS\CLIPS\Carly Rae Jepsen - Western Wind (Official Video).mp4
+	D:\Downloads D\Fayn IRL editing pack\Fayn IRL editing pack\CLIPS\CLIPS\PinDown.io_@hmwalton04_1776353517.gif
+	D:\Downloads D\Fayn IRL editing pack\Fayn IRL editing pack\CLIPS\CLIPS\REEBOK _ Come Grow With Us_.mp4
+	D:\Downloads D\Fayn IRL editing pack\Fayn IRL editing pack\PROJECT FILES\SHOUTOOT PF\CLIPS\LOUIS VUITTON — TOWARDS A DREAM.mp4
+	D:\Downloads D\SFX PACK-20261106T043353Z-1-001\SFX PACK\CLICK.MP3
+	D:\Downloads D\SFX PACK-20261106T043353Z-1-001\SFX PACK\OLD FLICKER.MP3
+	D:\Downloads D\SFX PACK-20261106T043353Z-1-001\SFX PACK\Vintage Cam.MP3
+	D:\vocal-separator\htdemucs\Say Yes To Heaven - Lana Del Rey (But With Drums)\no_vocals.mp3
+	D:\vocal-separator\htdemucs\Say Yes To Heaven - Lana Del Rey (But With Drums)\vocals.mp3
+	D:\yt-downloader\ESSENTIAL FLOW SFX ｜ Original Edition.mp3
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  32
+
+Effect:  BCC Brightness-Contrast
+	
+Effect:  BCC Ripple Dissolve
+	
+Effect:  Black & White
+	
+Effect:  Block Dissolve
+	
+Effect:  Checkbox Control
+	
+Effect:  Color Control
+	
+Effect:  Compound Blur
+	
+Effect:  Curves
+	
+Effect:  Deep Glow 2
+	
+Effect:  Directional Blur
+	
+Effect:  Drop Shadow
+	
+Effect:  Exposure
+	
+Effect:  Fill
+	
+Effect:  Fractal Noise
+	
+Effect:  Gradient Ramp
+	
+Effect:  Hue/Saturation
+	
+Effect:  Invert
+	
+Effect:  Linear Wipe
+	
+Effect:  Minimax
+	
+Effect:  Noise
+	
+Effect:  Optical Flares
+	
+Effect:  Roto Brush & Refine Edge
+	
+Effect:  S_DissolveShake
+	
+Effect:  S_Hotspots
+	
+Effect:  S_Shake
+	
+Effect:  Shutter Drag
+	
+Effect:  Slider Control
+	
+Effect:  TextBox 2
+	
+Effect:  Transform
+	
+Effect:  Turbulent Displace
+	
+Effect:  Twixtor Pro
+	
+Effect:  VC Color Vibrance
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Arial”, Font style: “Narrow Bold Italic”
+
