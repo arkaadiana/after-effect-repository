@@ -35,13 +35,11 @@ Whether you're breaking down complex pacing, dissecting synced sound effects, or
 
 ---
 
-## 📂 Available Project Files
+## 🗂️ Project Catalog & Direct Downloads
 
-Browse the directory tree below to explore the current archive of projects available in this repo:
-
-| Project / Folder | Type | Included Assets | Quick Link |
-| :--- | :--- | :--- | :---: |
-| **`say-yes-to-heaven/`** | After Effects (`.aep`) | 🎵 Audio Stems (Vocals + Instrumental)<br>🎥 Video Clips & Overlays<br>🔊 Full SFX Pack (Whooshes, Clicks, DSLR Flashes)<br>📄 Dependency & Effects Report (`.txt`) | [Explore Folder ➔](./say-yes-to-heaven) |
+| Project Name | Tag | Size / Specs | Downloads | Action |
+| :--- | :---: | :---: | :---: | :---: |
+| **Say Yes To Heaven** | `syth-v1.0` | ~53.3 MB (23 Files) | ![Downloads](https://img.shields.io/github/downloads/arkaadiana/after-effect-repository/syth-v1.0/total?style=flat-square&color=10b981) | [📥 **Download .ZIP**](https://github.com/arkaadiana/after-effect-repository/releases/download/syth-v1.0/say-yes-to-heaven.zip) · [📂 **Folder**](./say-yes-to-heaven) |
 
 ### 🔍 Project Spotlight: `say-yes-to-heaven`
 * **File**: [`say-yes-to-heaven.aep`](./say-yes-to-heaven/say-yes-to-heaven.aep)
